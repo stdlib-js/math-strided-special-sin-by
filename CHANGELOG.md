@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-11)
+## Unreleased (2026-04-21)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#11685](https://github.com/stdlib-js/stdlib/issues/11685)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`1089250`](https://github.com/stdlib-js/stdlib/commit/1089250db272eca254d75532dcc159a6a0aaafc3) - **chore:** fix JavaScript lint errors [(#11692)](https://github.com/stdlib-js/stdlib/pull/11692) _(by Matt Van Horn, Athan Reines)_
 -   [`45ea471`](https://github.com/stdlib-js/stdlib/commit/45ea471c7617506879b6fdaea16a2ef6f851f62d) - **bench:** refactor to use string interpolation in `math/strided/special` [(#11363)](https://github.com/stdlib-js/stdlib/pull/11363) _(by Karan Anand)_
 
 </details>
@@ -24,9 +37,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
+-   Matt Van Horn
 
 </section>
 
